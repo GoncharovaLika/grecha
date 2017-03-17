@@ -1,0 +1,5 @@
+take grecha
+take water
+take solt
+take kastrul'ka
+add grechu
